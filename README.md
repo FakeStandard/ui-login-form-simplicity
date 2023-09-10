@@ -1,7 +1,7 @@
 # :mailbox_with_no_mail: Simplicity Login Form
 
 - Responsive Website Modern Design
-- Using HTML & CSS
+- Using HTML, CSS & Javascript
 
 ### :star: [Demo](https://fakestandard.github.io/ui-simplicity-login-form/)
 
