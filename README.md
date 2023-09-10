@@ -1,4 +1,4 @@
-# :mailbox_with_no_mail: Simplicity Login Form Using HTML and CSS
+# :mailbox_with_no_mail: Simplicity Login Form
 
 - Responsive Website Modern Design
 - Using HTML & CSS
