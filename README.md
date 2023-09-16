@@ -3,7 +3,7 @@
 - Responsive Website Modern Design
 - Using HTML, CSS & Javascript
 
-### :star: [Demo](https://fakestandard.github.io/ui-simplicity-login-form/)
+### :star: [Demo](https://fakestandard.github.io/ui-login-form-simplicity/)
 
 ![COVER](./preview.png)
 
